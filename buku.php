@@ -13,7 +13,7 @@
 </head>
 <body>
 <div class="container w-75">
-    <h1 class="mt-5">Daftar Buku</h1>
+    <h1 class="mt-5">Daftar Buku PERPUSTAAKAAN</h1>
 
     <table class="table">
     <thead>
